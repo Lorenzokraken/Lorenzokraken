@@ -1,12 +1,11 @@
 <div align="center">
-    ---
+
   
   👨‍💻 Sono **Lorenzo**, sviluppatore appassionato di automazione, dati e AI.  
   🌱 Creo progetti che uniscono tecnologia, musica e benessere.  
   🔁 Automatizzo tutto.  
   🚀 Il mio obiettivo: costruire ecosistemi intelligenti.
 
-  ---
   # 🐍 **GitHub Contributions Snake**
   
   <picture>
