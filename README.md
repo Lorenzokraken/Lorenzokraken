@@ -1,5 +1,12 @@
 <div align="center">
+    ---
   
+  👨‍💻 Sono **Lorenzo**, sviluppatore appassionato di automazione, dati e AI.  
+  🌱 Creo progetti che uniscono tecnologia, musica e benessere.  
+  🔁 Automatizzo tutto.  
+  🚀 Il mio obiettivo: costruire ecosistemi intelligenti.
+
+  ---
   # 🐍 **GitHub Contributions Snake**
   
   <picture>
@@ -8,14 +15,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Lorenzokraken/Lorenzokraken/output/github-snake.svg" />
   </picture>
 
-  ---
-  
-  👨‍💻 Sono **Lorenzo**, sviluppatore appassionato di automazione, dati e AI.  
-  🌱 Creo progetti che uniscono tecnologia, musica e benessere.  
-  🔁 Automatizzo tutto.  
-  🚀 Il mio obiettivo: costruire ecosistemi intelligenti.
 
-  ---
 </div>
 
 ## 🛠️ Cosa uso
