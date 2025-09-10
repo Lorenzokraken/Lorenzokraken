@@ -47,7 +47,7 @@
 - 🎧 Meditazioni guidate generate con **Claude + ElevenLabs**
 - 🎼 Suoni prodotti in **Ableton**
 - 🔄 Automatizzato con **Make.com + YouTube API**
-- 🌌 [Progetto Elysia](https://youtube.com/@elysia) (in arrivo)
+- 🌌 [Progetto Elysia](https://www.youtube.com/@ElysiaMeditations) (in arrivo)
 
 ---
 
